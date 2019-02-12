@@ -1,5 +1,5 @@
 
-# Find out how to donate your born-digital archives to Wellcome Collection.
+# Find out how to donate your born-digital archives to Wellcome Collection
 Born-digital is a term used to describe objects created digitally, such as email, spreadsheets, datasets, and images. Wellcome Collection collects, catalogues and preserves such material alongside traditional analogue formats. This page sets out our process for acquiring and preserving born-digital archives and provides guidance for potential depositors.  
 * How does Wellcome decide what born-digital material to acquire?
 * What will you do with my born-digital archive once it is transferred to Wellcome?
@@ -37,9 +37,9 @@ Follow the links to view examples of catalogued born-digital records: [ART/AFH/D
 Preparatory work undertaken by the depositor can be incredibly helpful when we come to process and catalogue born-digital deposits. The the following actions are not mandatory but are suggestions for the kind of actions you may wish to undertake:
 * Check the media and files you intend to deposit to ensure you do not accidentally give us anything you do not wish us to have, or would fail our appraisal criteria. For instance, we will not keep software installation disks and you may not wish us to acquire your private correspondence or family photos.
 *	Ensure file and folder names are meaningful. You may wish to either enhance the names or provide an explanation alongside the original.
-*	Remove any passwords from password-protected files
-*	Document useful contextual information. This could include a list of acronyms used, an overview of the content of key folders or the history of certain files (e.g. files created on a 1990s Mac before being moved to a Windows machine in the late 2000s)
-*	Label portable media and ensure existing labels are legible
+*	Remove any passwords from password-protected files.
+*	Document useful contextual information. This could include a list of acronyms used, an overview of the content of key folders or the history of certain files (e.g. files created on a 1990s Mac before being moved to a Windows machine in the late 2000s).
+*	Label portable media and ensure existing labels are legible. 
 *	If you have obsolete media and have retained equipment to read the disks, it would be very helpful for you to copy the files off the original media onto modern storage. If you do this, please make a note of the original media type.
 
 ## HOW WOULD YOU LIKE ME TO SEND YOU MY BORN-DIGITAL MATERIAL?

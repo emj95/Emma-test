@@ -28,6 +28,7 @@ Preparatory work undertaken by the depositor can make the processing and catalog
 *	Label portable media and ensure existing labels are legible. 
 *	If you have obsolete media and have retained equipment to read the disks, it would be very helpful for you to copy the files off the original media onto modern storage. If you do this, please make a note of the original media type.
 
+
 ## HOW WOULD YOU LIKE ME TO SEND YOU MY BORN-DIGITAL MATERIAL?
 This is something we would like to discuss, as we want to make this process as straightforward and secure as possible.
 
@@ -63,6 +64,7 @@ Follow the links to view examples of catalogued born-digital records: [ART/AFH/D
 If you have any other questions, or would like more information, please contact: 
 
 Wellcome Collection
+
 183 Euston Road, London NW1 2BE, UK 
 
 T +44 (0)20 7611 8722

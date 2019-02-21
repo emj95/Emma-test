@@ -8,10 +8,8 @@ If you have a potential donation you would like to discuss please email us at li
 * How would you like me to send you my born-digital archive?
 * Would you prefer the digital or hard copy versions of my archives?
 * What would you do with my born- digital archive once it is transferred to Wellcome?
-
-## HOW DOES WELLCOME DECIDE WHAT BORN-DIGITAL MATERIAL TO ACQUIRE?	
+## HOW DOES WELLCOME DECIDE WHAT BORN-DIGITAL MATERIAL TO ACQUIRE?
 We assess all potential acquisitions according to our Collection Development Policy. We aim to build unique and distinctive collections that help to challenge the ways people think and feel about health. 
-
 
 The content and condition of born-digital archives cannot be assessed with the naked eye, as is the case with paper archives. For this reason, we rely heavily on the contextual information that accompanies potential acquisitions of born-digital archives. The more information available, the more likely we will be able to make an informed decision. Contextual information can include directory structures, metadata such as filenames and dates and information provided by the depositor about the content of the archive.
 
@@ -20,6 +18,7 @@ In addition, we consider the accessibility of older and more obscure storage med
 We do not make acquisition decisions based purely on the file formats born-digital archives are held in and will, in principle, accept all formats.
 
 ## WHAT SHOULD I DO TO PREPARE MY BORN-DIGITAL ARCHIVE?
+
 Preparatory work undertaken by the depositor can make the processing and cataloguing of born-digital archives much easier and also improve the discoverability and usability of the records for future researchers. The following actions are particularly helpful: 
 
 * Check the media and files you intend to deposit to ensure you do not accidentally give us anything you do not wish us to have, or would fail our appraisal criteria. For instance, we will not keep software installation disks and you may not wish us to acquire your private correspondence or family photos.
@@ -68,6 +67,7 @@ Wellcome Collection
 T +44 (0)20 7611 8722
 F +44 (0)20 7611 8369
 E [library@wellcome.ac.uk](library@wellcome.ac.uk)
+
 
 
 

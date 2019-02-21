@@ -64,8 +64,11 @@ If you have any other questions, or would like more information, please contact:
 
 Wellcome Collection
 183 Euston Road, London NW1 2BE, UK 
+
 T +44 (0)20 7611 8722
+
 F +44 (0)20 7611 8369
+
 E [library@wellcome.ac.uk](library@wellcome.ac.uk)
 
 

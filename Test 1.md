@@ -8,9 +8,10 @@ If you have a potential donation you would like to discuss please email us at li
 * How would you like me to send you my born-digital archive?
 * Would you prefer the digital or hard copy versions of my archives?
 * What would you do with my born- digital archive once it is transferred to Wellcome?
-## HOW DOES WELLCOME DECIDE WHAT BORN-DIGITAL MATERIAL TO ACQUIRE?	
 
+## HOW DOES WELLCOME DECIDE WHAT BORN-DIGITAL MATERIAL TO ACQUIRE?	
 We assess all potential acquisitions according to our Collection Development Policy. We aim to build unique and distinctive collections that help to challenge the ways people think and feel about health. 
+
 
 The content and condition of born-digital archives cannot be assessed with the naked eye, as is the case with paper archives. For this reason, we rely heavily on the contextual information that accompanies potential acquisitions of born-digital archives. The more information available, the more likely we will be able to make an informed decision. Contextual information can include directory structures, metadata such as filenames and dates and information provided by the depositor about the content of the archive.
 
